@@ -11,7 +11,11 @@ section
     height: 80vh;
     border-radius: 20px;
 }
-
+.section-entete {
+    background-image: url('../images/fonds_bureau_fonce.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .espace {
     background-color: #bacbe6;
     height: 10vh;
@@ -23,7 +27,6 @@ footer {
     text-align: center;
 }
 body {
-    background-image: url('../images/fonds_arc_en_ciel.jpg');
 
 }
 article {
