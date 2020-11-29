@@ -1,0 +1,32 @@
+header
+{
+    width: 100vw;
+    height: 50vw;
+}
+
+section
+{
+    background-color: palegoldenrod;
+    width: 50vw;
+    height: 80vh;
+    border-radius: 20px;
+}
+
+.espace {
+    background-color: #bacbe6;
+    height: 10vh;
+    width: 50vw;
+}
+
+footer {
+    height: 3vw;
+    text-align: center;
+}
+body {
+    background-image: url('../images/fonds4.jpg');
+
+}
+article {
+    height:70vh;
+}
+
