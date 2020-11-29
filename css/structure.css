@@ -6,10 +6,11 @@ header
 
 section
 {
-    background-color: palegoldenrod;
+    background-image: url('../images/index.jpg');
     width: 50vw;
     height: 80vh;
     border-radius: 20px;
+    background-size: cover;
 }
 .section-entete {
     background-image: url('../images/fonds_bureau_fonce.jpg');
@@ -27,7 +28,7 @@ footer {
     text-align: center;
 }
 body {
-
+background-color:  #808b96;
 }
 article {
     height:70vh;

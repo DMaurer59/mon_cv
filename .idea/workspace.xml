@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606654763807</updated>
-      <workItem from="1606654766521" duration="7365000" />
+      <workItem from="1606654766521" duration="11282000" />
     </task>
     <task id="LOCAL-00001" summary="maj css">
       <created>1606657914806</created>
@@ -83,11 +83,42 @@
       <option name="project" value="LOCAL" />
       <updated>1606658594854</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="maj css">
+      <created>1606663486276</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606663486276</updated>
+    </task>
+    <task id="LOCAL-00007" summary="maj css">
+      <created>1606663724841</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606663724841</updated>
+    </task>
+    <task id="LOCAL-00008" summary="maj css">
+      <created>1606663787903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606663787903</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maj css" />
@@ -110,10 +141,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="170" y="86" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1606655012891" />
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1606658601814">
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1606663794833">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606658601814" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606663794833" />
     <state x="616" y="265" key="run.anything.popup" timestamp="1606659588765">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
