@@ -1,6 +1,5 @@
 header
 {
-    width: 100vw;
     height: 50vw;
 }
 
@@ -28,10 +27,14 @@ footer {
     text-align: center;
 }
 body {
-background-color:  #808b96;
-    vertical-align: center;
+    background-color:  #808b96;
 }
 article {
     height:70vh;
 }
 
+img {
+
+    max-width: 25%;
+    height: auto;
+}
