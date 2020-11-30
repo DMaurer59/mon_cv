@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606654763807</updated>
       <workItem from="1606654766521" duration="11460000" />
-      <workItem from="1606736775718" duration="7676000" />
+      <workItem from="1606736775718" duration="9006000" />
     </task>
     <task id="LOCAL-00001" summary="maj css">
       <created>1606657914806</created>
@@ -156,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606740039717</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="maj css">
+      <created>1606744728535</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606744728535</updated>
+    </task>
+    <task id="LOCAL-00015" summary="maj css">
+      <created>1606744792702</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606744792702</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,10 +219,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="170" y="86" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1606655012891" />
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1606740042090">
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1606744793901">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606740042090" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606744793901" />
     <state x="616" y="265" key="run.anything.popup" timestamp="1606659588765">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
