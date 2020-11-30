@@ -29,6 +29,7 @@ footer {
 }
 body {
 background-color:  #808b96;
+    vertical-align: center;
 }
 article {
     height:70vh;

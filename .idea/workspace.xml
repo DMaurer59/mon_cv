@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="de695c74-b04b-46ae-aa8d-ea5391799aaa" name="Default Changelist" comment="maj css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/structure.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/istockphoto-1201736734-612x612.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/istockphoto-1278000069-612x612.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606654763807</updated>
-      <workItem from="1606654766521" duration="11282000" />
+      <workItem from="1606654766521" duration="11460000" />
+      <workItem from="1606736775718" duration="2552000" />
     </task>
     <task id="LOCAL-00001" summary="maj css">
       <created>1606657914806</created>
@@ -104,7 +121,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606663787903</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="maj css">
+      <created>1606667988663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606667988663</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modif image fonds">
+      <created>1606737280091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606737280091</updated>
+    </task>
+    <task id="LOCAL-00011" summary="maj css">
+      <created>1606737729210</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606737729210</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +158,19 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="modif image fonds" />
     <MESSAGE value="maj css" />
     <option name="LAST_COMMIT_MESSAGE" value="maj css" />
   </component>
@@ -141,10 +191,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="170" y="86" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1606655012891" />
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1606663794833">
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1606737732643">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606663794833" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606737732643" />
     <state x="616" y="265" key="run.anything.popup" timestamp="1606659588765">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
